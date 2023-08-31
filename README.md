@@ -1,9 +1,12 @@
-## hi
+## Hi
 <div>
   <p>Beginner Web Frontend Developer</p>
   <a href="https://velog.io/@pds0309">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
   </a>
+  <a href="mailto:ehd0309@gmail.com">
+      <img src="https://camo.githubusercontent.com/dbe51bf52097e37935a23884bf6d674cca983e764784c7ccc36b9e1fc6da19d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4541343333353f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6d696e73673336363940676d61696c2e636f6d" data-canonical-src="https://img.shields.io/badge/Gmail-EA4335?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:ehd0309@gmail.com">
+  </a> 
 </div>
 
 ## interested in
