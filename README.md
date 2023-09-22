@@ -1,6 +1,6 @@
 ## Hi
 <div>
-  <p>Beginner Web Frontend Developer</p>
+  <p>Web Frontend Developer</p>
   <a href="https://velog.io/@pds0309">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
   </a>
